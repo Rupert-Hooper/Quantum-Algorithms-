@@ -1,2 +1,2 @@
 # Quantum-Algorithms-
-A few quantum algorithms that I have programmed 
+This repositary contains a few quantum algorithms that I have coded. For Deutsch-Jozsa Algorithm I used this website https://hoaio.medium.com/implement-the-deutsch-jozsa-algorithm-in-qiskit-and-ibm-quantum-98d7c12e87f6 to help me code it. For Simon's algorithm I used this website https://medium.com/codex/implementing-simons-algorithm-in-qiskit-9155ce6a9527 to help me code it. For grovers algorithm I used this youtube video https://www.youtube.com/watch?v=0RPFWZj7Jm0&t=903s to help code it. 
